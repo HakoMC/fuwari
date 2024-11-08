@@ -2,8 +2,8 @@
 title: hello
 published: 2024-11-08
 description: 'このブログで最初の投稿。'
-tags: [Demo, Test]
-category: 'Other'
+tags: [タグなし]
+category: '未分類'
 draft: false
 ---
 
